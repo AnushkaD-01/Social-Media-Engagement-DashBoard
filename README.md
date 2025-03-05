@@ -18,3 +18,4 @@ DAX (Data Analysis Expressions): Used for calculations and custom metrics
 
 Power Query: Data transformation and cleaning
 
+![Download Preview](Preview-01)
